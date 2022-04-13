@@ -1,0 +1,48 @@
+body {
+    background: no-repeat url("dessertbackground.jpg");
+    background-repeat: repeat-x;
+}
+#title {
+    text-align: center;
+    font-family: Helvetica, Verdana, sans-serif;
+    color: rgb(100, 12, 100);
+    background-color: rgb(238, 231, 191);
+    border-color: palevioletred;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: medium;
+    width: 600px;
+    margin:auto;
+}
+.center{
+    text-align: center;
+    background-color: white;
+    font-weight:bold ;
+    font-style: italic;
+    font-family: Helvetica,Verdana, sans-serif;
+    width: 500px;;
+    margin: 25px auto;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: palevioletred;
+    border-width: medium;
+    border-radius: 10px;
+}
+div{
+    text-align: center;
+}
+.link {
+    font-size: larger;
+    background-color: white;
+    width: 300px;
+    margin: 200px;
+    border-color: palevioletred;
+    border-style: solid;
+    border-width: medium;
+    border-radius: 5px;
+    
+}
